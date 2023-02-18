@@ -39,9 +39,9 @@
         if($annual_salary < 250000){
           echo "Annual Salary is: " . $annual_salary;
           echo "<br>";
-          echo "Est. Annual Tax: 0";
+          echo "Est. Annual Tax: 0php";
           echo "<br>";
-          echo "Est. Monthly Tax: 0";
+          echo "Est. Monthly Tax: 0Php";
           echo "Net Income: " . $annual_salary;
           }
         elseif($annual_salary > 250000 && $annual_salary < 400000){
