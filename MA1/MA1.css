@@ -1,0 +1,17 @@
+.divTitle{
+    text-align: center;
+    vertical-align: middle;
+}
+.calcuPart{
+    text-align: center;
+    border: 5px solid #ffffff; /* border style */
+    border-radius: 5px;
+    width: 400px; /* width of the container */
+    padding: 20px; /* optional padding */
+    margin: 0 auto; /* centering the container */
+
+    color: white;
+}
+body{
+    background-image: url("background.jpg");
+}
