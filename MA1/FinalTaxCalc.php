@@ -27,7 +27,6 @@
       <?php
         if($_SERVER['REQUEST_METHOD'] == 'POST'){
         $salary_amt = $_POST['salaryAmt'];
-        $salary_amt = $_POST['salaryAmt'];
         $salary_type = $_POST['salaryType'];
         
         if ($salary_type === 'monthly') {
